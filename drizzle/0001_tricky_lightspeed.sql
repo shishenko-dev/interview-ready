@@ -1,0 +1,1 @@
+ALTER TABLE `vacancies` ADD `candidate_evidence` text DEFAULT '' NOT NULL;
